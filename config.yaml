@@ -1,0 +1,6 @@
+encrypt_ratio:   0.1
+rounds:          1
+num_clients:     1
+batch_size:      32
+learning_rate:   0.01
+inflation_ratio: 20.4   # for communication‐overhead plot
